@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frases-aleatorias-lorem/static/css/main.83d75756.css",
+    "main.js": "/frases-aleatorias-lorem/static/js/main.f74c9943.js",
+    "index.html": "/frases-aleatorias-lorem/index.html",
+    "main.83d75756.css.map": "/frases-aleatorias-lorem/static/css/main.83d75756.css.map",
+    "main.f74c9943.js.map": "/frases-aleatorias-lorem/static/js/main.f74c9943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d75756.css",
+    "static/js/main.f74c9943.js"
+  ]
+}
